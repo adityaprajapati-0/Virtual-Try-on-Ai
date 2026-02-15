@@ -1,0 +1,5 @@
+{
+  "name": "NeuralFit Studio",
+  "description": "A React frontend for a custom Virtual Try-On AI architecture, utilizing Gemini for rapid prototyping and simulation of the deep learning pipeline.",
+  "requestFramePermissions": []
+}
